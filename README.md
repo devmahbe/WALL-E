@@ -1,6 +1,6 @@
+# A Prototype Rover for Hazardous Environment Monitoring System
 
-<<<<<<< HEAD
-A web-based monitoring system for environmental sensors. This system collects and displays data from various sensors including temperature, humidity, and gas levels.
+A web-based monitoring system for Rover environmental sensors. This system collects and displays data from various sensors including temperature, humidity, and gas levels.
 
 ## Features
 
@@ -93,5 +93,3 @@ A web-based monitoring system for environmental sensors. This system collects an
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
-=======
->>>>>>> df3a84b70b6f031b6e1abbfb4d5087bee6822a5c
