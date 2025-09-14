@@ -1,6 +1,6 @@
-# Mars Rover Sensor Monitoring System
+# A Prototype Rover for Hazardous Environment Monitoring System
 
-A web-based monitoring system for Mars Rover environmental sensors. This system collects and displays data from various sensors including temperature, humidity, and gas levels.
+A web-based monitoring system for Rover environmental sensors. This system collects and displays data from various sensors including temperature, humidity, and gas levels.
 
 ## Features
 
