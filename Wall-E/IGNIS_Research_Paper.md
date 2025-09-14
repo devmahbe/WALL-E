@@ -1,7 +1,7 @@
-# IGNIS: A Mars Rover Prototype for Habitability Assessment and Environmental Monitoring
+# WALL-E :  A Prototype Rover for Hazardous Environmental Monitoring
 
 ## Abstract
-This paper presents IGNIS, an Arduino-based Mars rover prototype specifically designed for habitability assessment and environmental monitoring on Mars. The system incorporates an array of gas sensors and environmental monitors to analyze atmospheric composition and conditions critical for human survival. The rover utilizes dual Arduino microcontrollers: one for mobility control via Bluetooth and another for environmental sensing with radio frequency transmission. This research demonstrates a practical approach to evaluating Mars' habitability potential through real-time environmental analysis and data transmission.
+This paper presents WALL-E, an Arduino-based Mars rover prototype specifically designed for habitability assessment and environmental monitoring on Mars. The system incorporates an array of gas sensors and environmental monitors to analyze atmospheric composition and conditions critical for human survival. The rover utilizes dual Arduino microcontrollers: one for mobility control via Bluetooth and another for environmental sensing with radio frequency transmission. This research demonstrates a practical approach to evaluating Mars' habitability potential through real-time environmental analysis and data transmission.
 
 *Index Terms*—Mars rover, habitability assessment, environmental monitoring, gas sensors, Arduino microcontroller, real-time data transmission, atmospheric analysis, planetary exploration, remote sensing, autonomous systems, space colonization, terraforming, wireless communication, embedded systems, environmental safety
 
